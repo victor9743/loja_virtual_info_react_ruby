@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id_usuario: 1
+  id_processador: 1
+  id_placa_mae: 1
+  id_memoria_ram: 1
+  qtd_memoria: 1
+  preco_final: 1
+
+two:
+  id_usuario: 1
+  id_processador: 1
+  id_placa_mae: 1
+  id_memoria_ram: 1
+  qtd_memoria: 1
+  preco_final: 1

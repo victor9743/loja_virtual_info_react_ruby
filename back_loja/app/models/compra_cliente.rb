@@ -1,0 +1,2 @@
+class CompraCliente < ApplicationRecord
+end
